@@ -1,4 +1,8 @@
 Hello!
 World!
+<<<<<<< HEAD
 We create new commit!
 Now create them again!
+=======
+Test New Branch
+>>>>>>> testNewBranch
